@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+![image](https://github.com/Kainan-Liu/Kainan-Liu/assets/146005327/e22827fa-c609-4c3b-8a47-5de773c6c332)
+
 - 👦 Name: Kainan Liu
 - 🌱 A First-year Master Student at HKUST-GZ
 - 🔭 I’m currently working on Multimodal
 - 📫 How to reach me: lkn563799345@gmail.com
 - 🐱 Hobby: Tennis🎾
-
-![image](https://github.com/Kainan-Liu/Kainan-Liu/assets/146005327/e22827fa-c609-4c3b-8a47-5de773c6c332)
 
 <h3>Things I code with</h3>
 <p>
