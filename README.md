@@ -2,7 +2,7 @@
 
 - 👦 Name: Kainan Liu
 - 🌱 A First-year Master Student at HKUST-GZ
-- 🔭 I’m currently working on Multimodal
+- 🔭 I’m currently working on LLM-based ASR for LRLs and Dialect
 - 📫 How to reach me: lkn563799345@gmail.com
 - 🐱 Hobby: Tennis🎾
 
