@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👦 Name: Kainan Liu
-- 🌱 A First-year Master Student at HKUST-GZ
-- 🔭 I’m currently working on LLM-based ASR for LRLs and Dialect
-- 📫 How to reach me: lkn563799345@gmail.com
+- 🌱 I received my Master degree at the Hong Kong University of Science and Technology
+- 🔭 I’m currently an AI research at Ping An Technology (Shenzhen) Co., Ltd., China
+- 📫 How to reach me: kliu341@connect.hkust-gz.edu.cn
 - 🐱 Hobby: Tennis🎾
 
 <h3>Things I code with</h3>
